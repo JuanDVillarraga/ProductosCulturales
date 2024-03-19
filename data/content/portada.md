@@ -3,6 +3,7 @@ name: home
 ---
 
 # Introducción
+Esta es una colección de productos culturales como series, películas, videojuegos y publicidad que tienen como relación en común el habitar doméstico
 
 Esta es una plantilla para la creación de coleciones culturales digitales basada en Svelte
 

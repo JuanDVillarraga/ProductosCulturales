@@ -1,11 +1,11 @@
 const config = {
   "lang": "es",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Una plataforma para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez. Hecho con Serie Mini",
-  "copyright": "Todos los derechos reservados, 2024",
+  "base": "https://JuanDVillarraga.github.io",
+  "baseurl": "/ProductosCulturales",
+  "title": "Productos Culturales del habitar doméstico ",
+  "subtitle": "Colección de referencias culturales ",
+  "credits": "Por: Juan Darío Villarraga",
+  "copyright": "By JDVP",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
